@@ -5,7 +5,7 @@ The talk is in Spanish language.
 
 ## paper
 
-A corresponding paper is upcoming.
+A corresponding paper can be read under [https://github.com/lusy/hausarbeiten/tree/master/redesAltermundi](https://github.com/lusy/hausarbeiten/tree/master/redesAltermundi).
 
 ## attribution
 
